@@ -1,2 +1,6 @@
 # Cynydlan-SAMP-RP
-GTA San Andreas Multiplayer, Role Play Sunucusu (Centos)
+* Bilgi: GTA San Andreas Multiplayer, Role Play Sunucusu (Centos)
+* Versiyon: Alpha
+
+# Pluginler
+mysql: R41-3
